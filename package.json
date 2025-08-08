@@ -1,7 +1,7 @@
 {
   "name": "ai_universal_paperclips",
   "version": "0.1.0",
-  "homepage": "https://Maxence-villet.github.io/Agent-AI-Universal-Paperclips",
+  "homepage": "https://maxence-villet.github.io/Agent-AI-Univseral-Paperclips/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
