@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Agent-AI-Univseral-Paperclips/static/css/main.b68f5d07.css",
-    "main.js": "/Agent-AI-Univseral-Paperclips/static/js/main.61bb6cec.js",
+    "main.js": "/Agent-AI-Univseral-Paperclips/static/js/main.1fa58665.js",
     "index.html": "/Agent-AI-Univseral-Paperclips/index.html",
     "main.b68f5d07.css.map": "/Agent-AI-Univseral-Paperclips/static/css/main.b68f5d07.css.map",
-    "main.61bb6cec.js.map": "/Agent-AI-Univseral-Paperclips/static/js/main.61bb6cec.js.map"
+    "main.1fa58665.js.map": "/Agent-AI-Univseral-Paperclips/static/js/main.1fa58665.js.map"
   },
   "entrypoints": [
     "static/css/main.b68f5d07.css",
-    "static/js/main.61bb6cec.js"
+    "static/js/main.1fa58665.js"
   ]
 }
