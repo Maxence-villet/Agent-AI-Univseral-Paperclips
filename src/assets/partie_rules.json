@@ -1157,7 +1157,7 @@
     {
         "turn": 56,
         "state": {
-            "available_funds": 0.0,
+            "available_funds": 12.38,
             "unsold_inventory": 10,
             "price_per_clip": 0.18,
             "public_demand": 52,
@@ -1283,7 +1283,7 @@
     {
         "turn": 62,
         "state": {
-            "available_funds": 0.0,
+            "available_funds": 14.77,
             "unsold_inventory": 20,
             "price_per_clip": 0.18,
             "public_demand": 52,
@@ -1472,7 +1472,7 @@
     {
         "turn": 71,
         "state": {
-            "available_funds": 0.0,
+            "available_funds": 29.64,
             "unsold_inventory": 19,
             "price_per_clip": 0.16,
             "public_demand": 58,
