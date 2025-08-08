@@ -1,0 +1,2081 @@
+[
+    {
+        "turn": 1,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 0,
+            "price_per_clip": 0.25,
+            "public_demand": 31,
+            "clips_per_second": 0,
+            "inches": 1000
+        },
+        "state_text": "Available Funds: $0.00\nUnsold Inventory: 0\nPrice per Clip: $ 0.25\nPublic Demand: 31%\nClips per Second: 0\n1000 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 2,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.25,
+            "public_demand": 31,
+            "clips_per_second": 1,
+            "inches": 999
+        },
+        "state_text": "Available Funds: $0.00\nUnsold Inventory: 1\nPrice per Clip: $ 0.25\nPublic Demand: 31%\nClips per Second: 1\n999 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 3,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.25,
+            "public_demand": 31,
+            "clips_per_second": 1,
+            "inches": 998
+        },
+        "state_text": "Available Funds: $0.00\nUnsold Inventory: 2\nPrice per Clip: $ 0.25\nPublic Demand: 31%\nClips per Second: 1\n998 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 4,
+        "state": {
+            "available_funds": 0.25,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.25,
+            "public_demand": 31,
+            "clips_per_second": 1,
+            "inches": 997
+        },
+        "state_text": "Available Funds: $0.25\nUnsold Inventory: 2\nPrice per Clip: $ 0.25\nPublic Demand: 31%\nClips per Second: 1\n997 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 5,
+        "state": {
+            "available_funds": 0.5,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.25,
+            "public_demand": 31,
+            "clips_per_second": 1,
+            "inches": 996
+        },
+        "state_text": "Available Funds: $0.50\nUnsold Inventory: 2\nPrice per Clip: $ 0.25\nPublic Demand: 31%\nClips per Second: 1\n996 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 6,
+        "state": {
+            "available_funds": 0.5,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.24,
+            "public_demand": 34,
+            "clips_per_second": 0,
+            "inches": 996
+        },
+        "state_text": "Available Funds: $0.50\nUnsold Inventory: 2\nPrice per Clip: $ 0.24\nPublic Demand: 34%\nClips per Second: 0\n996 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 7,
+        "state": {
+            "available_funds": 0.74,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.24,
+            "public_demand": 34,
+            "clips_per_second": 1,
+            "inches": 995
+        },
+        "state_text": "Available Funds: $0.74\nUnsold Inventory: 2\nPrice per Clip: $ 0.24\nPublic Demand: 34%\nClips per Second: 1\n995 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 8,
+        "state": {
+            "available_funds": 0.98,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.24,
+            "public_demand": 34,
+            "clips_per_second": 1,
+            "inches": 994
+        },
+        "state_text": "Available Funds: $0.98\nUnsold Inventory: 2\nPrice per Clip: $ 0.24\nPublic Demand: 34%\nClips per Second: 1\n994 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 9,
+        "state": {
+            "available_funds": 1.22,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.23,
+            "public_demand": 37,
+            "clips_per_second": 0,
+            "inches": 994
+        },
+        "state_text": "Available Funds: $1.22\nUnsold Inventory: 1\nPrice per Clip: $ 0.23\nPublic Demand: 37%\nClips per Second: 0\n994 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 10,
+        "state": {
+            "available_funds": 1.22,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.23,
+            "public_demand": 37,
+            "clips_per_second": 1,
+            "inches": 993
+        },
+        "state_text": "Available Funds: $1.22\nUnsold Inventory: 2\nPrice per Clip: $ 0.23\nPublic Demand: 37%\nClips per Second: 1\n993 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 11,
+        "state": {
+            "available_funds": 1.45,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 0,
+            "inches": 993
+        },
+        "state_text": "Available Funds: $1.45\nUnsold Inventory: 1\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 0\n993 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 12,
+        "state": {
+            "available_funds": 1.67,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 1,
+            "inches": 992
+        },
+        "state_text": "Available Funds: $1.67\nUnsold Inventory: 1\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 1\n992 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 13,
+        "state": {
+            "available_funds": 1.67,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 1,
+            "inches": 991
+        },
+        "state_text": "Available Funds: $1.67\nUnsold Inventory: 2\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 1\n991 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "'lower'"
+    },
+    {
+        "turn": 14,
+        "state": {
+            "available_funds": 1.89,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 0,
+            "inches": 991
+        },
+        "state_text": "Available Funds: $1.89\nUnsold Inventory: 1\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 0\n991 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 15,
+        "state": {
+            "available_funds": 1.89,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 1,
+            "inches": 990
+        },
+        "state_text": "Available Funds: $1.89\nUnsold Inventory: 2\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 1\n990 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 16,
+        "state": {
+            "available_funds": 2.11,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 1,
+            "inches": 989
+        },
+        "state_text": "Available Funds: $2.11\nUnsold Inventory: 2\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 1\n989 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 17,
+        "state": {
+            "available_funds": 2.33,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 0,
+            "inches": 988
+        },
+        "state_text": "Available Funds: $2.33\nUnsold Inventory: 2\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 0\n988 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 18,
+        "state": {
+            "available_funds": 2.55,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.22,
+            "public_demand": 40,
+            "clips_per_second": 1,
+            "inches": 987
+        },
+        "state_text": "Available Funds: $2.55\nUnsold Inventory: 2\nPrice per Clip: $ 0.22\nPublic Demand: 40%\nClips per Second: 1\n987 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 19,
+        "state": {
+            "available_funds": 2.55,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.21,
+            "public_demand": 43,
+            "clips_per_second": 0,
+            "inches": 987
+        },
+        "state_text": "Available Funds: $2.55\nUnsold Inventory: 2\nPrice per Clip: $ 0.21\nPublic Demand: 43%\nClips per Second: 0\n987 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 20,
+        "state": {
+            "available_funds": 2.76,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.21,
+            "public_demand": 43,
+            "clips_per_second": 1,
+            "inches": 986
+        },
+        "state_text": "Available Funds: $2.76\nUnsold Inventory: 2\nPrice per Clip: $ 0.21\nPublic Demand: 43%\nClips per Second: 1\n986 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 21,
+        "state": {
+            "available_funds": 2.97,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.21,
+            "public_demand": 43,
+            "clips_per_second": 1,
+            "inches": 985
+        },
+        "state_text": "Available Funds: $2.97\nUnsold Inventory: 2\nPrice per Clip: $ 0.21\nPublic Demand: 43%\nClips per Second: 1\n985 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 22,
+        "state": {
+            "available_funds": 3.18,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.21,
+            "public_demand": 43,
+            "clips_per_second": 1,
+            "inches": 984
+        },
+        "state_text": "Available Funds: $3.18\nUnsold Inventory: 2\nPrice per Clip: $ 0.21\nPublic Demand: 43%\nClips per Second: 1\n984 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 23,
+        "state": {
+            "available_funds": 3.39,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.21,
+            "public_demand": 43,
+            "clips_per_second": 1,
+            "inches": 983
+        },
+        "state_text": "Available Funds: $3.39\nUnsold Inventory: 2\nPrice per Clip: $ 0.21\nPublic Demand: 43%\nClips per Second: 1\n983 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 24,
+        "state": {
+            "available_funds": 3.59,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 0,
+            "inches": 983
+        },
+        "state_text": "Available Funds: $3.59\nUnsold Inventory: 1\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 0\n983 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 25,
+        "state": {
+            "available_funds": 3.79,
+            "unsold_inventory": 1,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 982
+        },
+        "state_text": "Available Funds: $3.79\nUnsold Inventory: 1\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n982 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 26,
+        "state": {
+            "available_funds": 3.79,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 981
+        },
+        "state_text": "Available Funds: $3.79\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n981 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 27,
+        "state": {
+            "available_funds": 3.99,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 980
+        },
+        "state_text": "Available Funds: $3.99\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n980 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 28,
+        "state": {
+            "available_funds": 4.19,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 0,
+            "inches": 979
+        },
+        "state_text": "Available Funds: $4.19\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 0\n979 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 29,
+        "state": {
+            "available_funds": 4.39,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 978
+        },
+        "state_text": "Available Funds: $4.39\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n978 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 30,
+        "state": {
+            "available_funds": 4.59,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 977
+        },
+        "state_text": "Available Funds: $4.59\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n977 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 31,
+        "state": {
+            "available_funds": 4.79,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 0,
+            "inches": 976
+        },
+        "state_text": "Available Funds: $4.79\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 0\n976 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 32,
+        "state": {
+            "available_funds": 4.99,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 975
+        },
+        "state_text": "Available Funds: $4.99\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n975 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 33,
+        "state": {
+            "available_funds": 4.99,
+            "unsold_inventory": 3,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 974
+        },
+        "state_text": "Available Funds: $4.99\nUnsold Inventory: 3\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n974 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 34,
+        "state": {
+            "available_funds": 5.19,
+            "unsold_inventory": 3,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 973
+        },
+        "state_text": "Available Funds: $5.19\nUnsold Inventory: 3\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n973 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 35,
+        "state": {
+            "available_funds": 5.39,
+            "unsold_inventory": 3,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 972
+        },
+        "state_text": "Available Funds: $5.39\nUnsold Inventory: 3\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n972 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 36,
+        "state": {
+            "available_funds": 5.59,
+            "unsold_inventory": 3,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 971
+        },
+        "state_text": "Available Funds: $5.59\nUnsold Inventory: 3\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n971 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 37,
+        "state": {
+            "available_funds": 5.79,
+            "unsold_inventory": 3,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 970
+        },
+        "state_text": "Available Funds: $5.79\nUnsold Inventory: 3\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n970 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 38,
+        "state": {
+            "available_funds": 6.19,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 0,
+            "inches": 969
+        },
+        "state_text": "Available Funds: $6.19\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 0\n969 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "AutoClippers"
+    },
+    {
+        "turn": 39,
+        "state": {
+            "available_funds": 0.29,
+            "unsold_inventory": 2,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 968
+        },
+        "state_text": "Available Funds: $0.29\nUnsold Inventory: 2\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n968 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 40,
+        "state": {
+            "available_funds": 0.29,
+            "unsold_inventory": 7,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 2,
+            "inches": 963
+        },
+        "state_text": "Available Funds: $0.29\nUnsold Inventory: 7\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 2\n963 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 41,
+        "state": {
+            "available_funds": 1.09,
+            "unsold_inventory": 9,
+            "price_per_clip": 0.2,
+            "public_demand": 46,
+            "clips_per_second": 1,
+            "inches": 957
+        },
+        "state_text": "Available Funds: $1.09\nUnsold Inventory: 9\nPrice per Clip: $ 0.20\nPublic Demand: 46%\nClips per Second: 1\n957 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 42,
+        "state": {
+            "available_funds": 2.09,
+            "unsold_inventory": 8,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 1,
+            "inches": 953
+        },
+        "state_text": "Available Funds: $2.09\nUnsold Inventory: 8\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 1\n953 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 43,
+        "state": {
+            "available_funds": 3.04,
+            "unsold_inventory": 8,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 948
+        },
+        "state_text": "Available Funds: $3.04\nUnsold Inventory: 8\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n948 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 44,
+        "state": {
+            "available_funds": 3.99,
+            "unsold_inventory": 8,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 943
+        },
+        "state_text": "Available Funds: $3.99\nUnsold Inventory: 8\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n943 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 45,
+        "state": {
+            "available_funds": 5.13,
+            "unsold_inventory": 8,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 937
+        },
+        "state_text": "Available Funds: $5.13\nUnsold Inventory: 8\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n937 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 46,
+        "state": {
+            "available_funds": 6.27,
+            "unsold_inventory": 7,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 932
+        },
+        "state_text": "Available Funds: $6.27\nUnsold Inventory: 7\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n932 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 47,
+        "state": {
+            "available_funds": 6.27,
+            "unsold_inventory": 12,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 927
+        },
+        "state_text": "Available Funds: $6.27\nUnsold Inventory: 12\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n927 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 48,
+        "state": {
+            "available_funds": 7.41,
+            "unsold_inventory": 12,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 921
+        },
+        "state_text": "Available Funds: $7.41\nUnsold Inventory: 12\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n921 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 49,
+        "state": {
+            "available_funds": 8.55,
+            "unsold_inventory": 11,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 916
+        },
+        "state_text": "Available Funds: $8.55\nUnsold Inventory: 11\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n916 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 50,
+        "state": {
+            "available_funds": 9.69,
+            "unsold_inventory": 10,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 2,
+            "inches": 911
+        },
+        "state_text": "Available Funds: $9.69\nUnsold Inventory: 10\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 2\n911 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 51,
+        "state": {
+            "available_funds": 10.83,
+            "unsold_inventory": 10,
+            "price_per_clip": 0.19,
+            "public_demand": 49,
+            "clips_per_second": 1,
+            "inches": 905
+        },
+        "state_text": "Available Funds: $10.83\nUnsold Inventory: 10\nPrice per Clip: $ 0.19\nPublic Demand: 49%\nClips per Second: 1\n905 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 52,
+        "state": {
+            "available_funds": 11.97,
+            "unsold_inventory": 8,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 1,
+            "inches": 901
+        },
+        "state_text": "Available Funds: $11.97\nUnsold Inventory: 8\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 1\n901 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 53,
+        "state": {
+            "available_funds": 13.23,
+            "unsold_inventory": 6,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 2,
+            "inches": 896
+        },
+        "state_text": "Available Funds: $13.23\nUnsold Inventory: 6\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 2\n896 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 54,
+        "state": {
+            "available_funds": 14.31,
+            "unsold_inventory": 6,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 1,
+            "inches": 890
+        },
+        "state_text": "Available Funds: $14.31\nUnsold Inventory: 6\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 1\n890 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 55,
+        "state": {
+            "available_funds": 14.31,
+            "unsold_inventory": 11,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 2,
+            "inches": 885
+        },
+        "state_text": "Available Funds: $14.31\nUnsold Inventory: 11\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 2\n885 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "AutoClippers"
+    },
+    {
+        "turn": 56,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 10,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 2,
+            "inches": 880
+        },
+        "state_text": "Available Funds: $ 9.19\nUnsold Inventory: 10\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 2\n880 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 57,
+        "state": {
+            "available_funds": 10.45,
+            "unsold_inventory": 12,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 871
+        },
+        "state_text": "Available Funds: $10.45\nUnsold Inventory: 12\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n871 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 58,
+        "state": {
+            "available_funds": 12.07,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 2,
+            "inches": 860
+        },
+        "state_text": "Available Funds: $12.07\nUnsold Inventory: 14\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 2\n860 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 59,
+        "state": {
+            "available_funds": 13.87,
+            "unsold_inventory": 13,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 851
+        },
+        "state_text": "Available Funds: $13.87\nUnsold Inventory: 13\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n851 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 60,
+        "state": {
+            "available_funds": 15.85,
+            "unsold_inventory": 11,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 842
+        },
+        "state_text": "Available Funds: $15.85\nUnsold Inventory: 11\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n842 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 61,
+        "state": {
+            "available_funds": 15.85,
+            "unsold_inventory": 20,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 833
+        },
+        "state_text": "Available Funds: $15.85\nUnsold Inventory: 20\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n833 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "AutoClippers"
+    },
+    {
+        "turn": 62,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 20,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 822
+        },
+        "state_text": "Available Funds: $ 11.53\nUnsold Inventory: 20\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n822 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 63,
+        "state": {
+            "available_funds": 13.69,
+            "unsold_inventory": 21,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 4,
+            "inches": 809
+        },
+        "state_text": "Available Funds: $13.69\nUnsold Inventory: 21\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 4\n809 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 64,
+        "state": {
+            "available_funds": 16.21,
+            "unsold_inventory": 20,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 4,
+            "inches": 796
+        },
+        "state_text": "Available Funds: $16.21\nUnsold Inventory: 20\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 4\n796 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 65,
+        "state": {
+            "available_funds": 18.91,
+            "unsold_inventory": 21,
+            "price_per_clip": 0.18,
+            "public_demand": 52,
+            "clips_per_second": 3,
+            "inches": 780
+        },
+        "state_text": "Available Funds: $18.91\nUnsold Inventory: 21\nPrice per Clip: $ 0.18\nPublic Demand: 52%\nClips per Second: 3\n780 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 66,
+        "state": {
+            "available_funds": 21.79,
+            "unsold_inventory": 17,
+            "price_per_clip": 0.17,
+            "public_demand": 55,
+            "clips_per_second": 3,
+            "inches": 768
+        },
+        "state_text": "Available Funds: $21.79\nUnsold Inventory: 17\nPrice per Clip: $ 0.17\nPublic Demand: 55%\nClips per Second: 3\n768 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 67,
+        "state": {
+            "available_funds": 24.68,
+            "unsold_inventory": 13,
+            "price_per_clip": 0.17,
+            "public_demand": 55,
+            "clips_per_second": 4,
+            "inches": 755
+        },
+        "state_text": "Available Funds: $24.68\nUnsold Inventory: 13\nPrice per Clip: $ 0.17\nPublic Demand: 55%\nClips per Second: 4\n755 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 68,
+        "state": {
+            "available_funds": 27.4,
+            "unsold_inventory": 13,
+            "price_per_clip": 0.17,
+            "public_demand": 55,
+            "clips_per_second": 3,
+            "inches": 739
+        },
+        "state_text": "Available Funds: $27.40\nUnsold Inventory: 13\nPrice per Clip: $ 0.17\nPublic Demand: 55%\nClips per Second: 3\n739 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 69,
+        "state": {
+            "available_funds": 27.4,
+            "unsold_inventory": 26,
+            "price_per_clip": 0.17,
+            "public_demand": 55,
+            "clips_per_second": 4,
+            "inches": 726
+        },
+        "state_text": "Available Funds: $27.40\nUnsold Inventory: 26\nPrice per Clip: $ 0.17\nPublic Demand: 55%\nClips per Second: 4\n726 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 70,
+        "state": {
+            "available_funds": 30.12,
+            "unsold_inventory": 22,
+            "price_per_clip": 0.16,
+            "public_demand": 58,
+            "clips_per_second": 3,
+            "inches": 714
+        },
+        "state_text": "Available Funds: $30.12\nUnsold Inventory: 22\nPrice per Clip: $ 0.16\nPublic Demand: 58%\nClips per Second: 3\n714 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "AutoClippers"
+    },
+    {
+        "turn": 71,
+        "state": {
+            "available_funds": 0.0,
+            "unsold_inventory": 19,
+            "price_per_clip": 0.16,
+            "public_demand": 58,
+            "clips_per_second": 4,
+            "inches": 701
+        },
+        "state_text": "Available Funds: $ 26.28\nUnsold Inventory: 19\nPrice per Clip: $ 0.16\nPublic Demand: 58%\nClips per Second: 4\n701 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 72,
+        "state": {
+            "available_funds": 29.16,
+            "unsold_inventory": 22,
+            "price_per_clip": 0.16,
+            "public_demand": 58,
+            "clips_per_second": 5,
+            "inches": 680
+        },
+        "state_text": "Available Funds: $29.16\nUnsold Inventory: 22\nPrice per Clip: $ 0.16\nPublic Demand: 58%\nClips per Second: 5\n680 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 73,
+        "state": {
+            "available_funds": 32.36,
+            "unsold_inventory": 19,
+            "price_per_clip": 0.16,
+            "public_demand": 58,
+            "clips_per_second": 5,
+            "inches": 663
+        },
+        "state_text": "Available Funds: $32.36\nUnsold Inventory: 19\nPrice per Clip: $ 0.16\nPublic Demand: 58%\nClips per Second: 5\n663 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 74,
+        "state": {
+            "available_funds": 35.51,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 4,
+            "inches": 647
+        },
+        "state_text": "Available Funds: $35.51\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 4\n647 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 75,
+        "state": {
+            "available_funds": 38.66,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 4,
+            "inches": 626
+        },
+        "state_text": "Available Funds: $38.66\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 4\n626 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 76,
+        "state": {
+            "available_funds": 38.66,
+            "unsold_inventory": 31,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 609
+        },
+        "state_text": "Available Funds: $38.66\nUnsold Inventory: 31\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n609 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 77,
+        "state": {
+            "available_funds": 41.81,
+            "unsold_inventory": 27,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 592
+        },
+        "state_text": "Available Funds: $41.81\nUnsold Inventory: 27\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n592 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 78,
+        "state": {
+            "available_funds": 44.96,
+            "unsold_inventory": 23,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 4,
+            "inches": 571
+        },
+        "state_text": "Available Funds: $44.96\nUnsold Inventory: 23\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 4\n571 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 79,
+        "state": {
+            "available_funds": 48.11,
+            "unsold_inventory": 23,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 554
+        },
+        "state_text": "Available Funds: $48.11\nUnsold Inventory: 23\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n554 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 80,
+        "state": {
+            "available_funds": 51.26,
+            "unsold_inventory": 19,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 537
+        },
+        "state_text": "Available Funds: $51.26\nUnsold Inventory: 19\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n537 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 81,
+        "state": {
+            "available_funds": 54.56,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 520
+        },
+        "state_text": "Available Funds: $54.56\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n520 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 82,
+        "state": {
+            "available_funds": 57.71,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 499
+        },
+        "state_text": "Available Funds: $57.71\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n499 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 83,
+        "state": {
+            "available_funds": 57.71,
+            "unsold_inventory": 31,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 482
+        },
+        "state_text": "Available Funds: $57.71\nUnsold Inventory: 31\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n482 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 84,
+        "state": {
+            "available_funds": 60.86,
+            "unsold_inventory": 27,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 465
+        },
+        "state_text": "Available Funds: $60.86\nUnsold Inventory: 27\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n465 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "'lower'"
+    },
+    {
+        "turn": 85,
+        "state": {
+            "available_funds": 64.01,
+            "unsold_inventory": 22,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 4,
+            "inches": 449
+        },
+        "state_text": "Available Funds: $64.01\nUnsold Inventory: 22\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 4\n449 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 86,
+        "state": {
+            "available_funds": 67.16,
+            "unsold_inventory": 18,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 432
+        },
+        "state_text": "Available Funds: $67.16\nUnsold Inventory: 18\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n432 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 87,
+        "state": {
+            "available_funds": 70.31,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 4,
+            "inches": 411
+        },
+        "state_text": "Available Funds: $70.31\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 4\n411 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 88,
+        "state": {
+            "available_funds": 73.46,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.15,
+            "public_demand": 61,
+            "clips_per_second": 5,
+            "inches": 394
+        },
+        "state_text": "Available Funds: $73.46\nUnsold Inventory: 14\nPrice per Clip: $ 0.15\nPublic Demand: 61%\nClips per Second: 5\n394 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 89,
+        "state": {
+            "available_funds": 73.46,
+            "unsold_inventory": 30,
+            "price_per_clip": 0.14,
+            "public_demand": 64,
+            "clips_per_second": 4,
+            "inches": 378
+        },
+        "state_text": "Available Funds: $73.46\nUnsold Inventory: 30\nPrice per Clip: $ 0.14\nPublic Demand: 64%\nClips per Second: 4\n378 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 90,
+        "state": {
+            "available_funds": 76.54,
+            "unsold_inventory": 25,
+            "price_per_clip": 0.14,
+            "public_demand": 64,
+            "clips_per_second": 5,
+            "inches": 361
+        },
+        "state_text": "Available Funds: $76.54\nUnsold Inventory: 25\nPrice per Clip: $ 0.14\nPublic Demand: 64%\nClips per Second: 5\n361 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 91,
+        "state": {
+            "available_funds": 79.48,
+            "unsold_inventory": 24,
+            "price_per_clip": 0.13,
+            "public_demand": 67,
+            "clips_per_second": 4,
+            "inches": 341
+        },
+        "state_text": "Available Funds: $79.48\nUnsold Inventory: 24\nPrice per Clip: $ 0.13\nPublic Demand: 67%\nClips per Second: 4\n341 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "lower"
+    },
+    {
+        "turn": 92,
+        "state": {
+            "available_funds": 82.21,
+            "unsold_inventory": 19,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 4,
+            "inches": 325
+        },
+        "state_text": "Available Funds: $82.21\nUnsold Inventory: 19\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 4\n325 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 93,
+        "state": {
+            "available_funds": 84.85,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 5,
+            "inches": 308
+        },
+        "state_text": "Available Funds: $84.85\nUnsold Inventory: 14\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 5\n308 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 94,
+        "state": {
+            "available_funds": 87.49,
+            "unsold_inventory": 9,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 5,
+            "inches": 291
+        },
+        "state_text": "Available Funds: $87.49\nUnsold Inventory: 9\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 5\n291 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "'lower'"
+    },
+    {
+        "turn": 95,
+        "state": {
+            "available_funds": 87.49,
+            "unsold_inventory": 25,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 4,
+            "inches": 275
+        },
+        "state_text": "Available Funds: $87.49\nUnsold Inventory: 25\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 4\n275 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 96,
+        "state": {
+            "available_funds": 89.89,
+            "unsold_inventory": 22,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 5,
+            "inches": 258
+        },
+        "state_text": "Available Funds: $89.89\nUnsold Inventory: 22\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 5\n258 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 97,
+        "state": {
+            "available_funds": 92.41,
+            "unsold_inventory": 22,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 4,
+            "inches": 237
+        },
+        "state_text": "Available Funds: $92.41\nUnsold Inventory: 22\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 4\n237 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 98,
+        "state": {
+            "available_funds": 94.93,
+            "unsold_inventory": 18,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 5,
+            "inches": 220
+        },
+        "state_text": "Available Funds: $94.93\nUnsold Inventory: 18\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 5\n220 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    },
+    {
+        "turn": 99,
+        "state": {
+            "available_funds": 97.45,
+            "unsold_inventory": 14,
+            "price_per_clip": 0.12,
+            "public_demand": 70,
+            "clips_per_second": 5,
+            "inches": 203
+        },
+        "state_text": "Available Funds: $97.45\nUnsold Inventory: 14\nPrice per Clip: $ 0.12\nPublic Demand: 70%\nClips per Second: 5\n203 inches",
+        "buttons": [
+            "Make Paperclip",
+            "lower",
+            "raise",
+            "Marketing",
+            "Wire",
+            "AutoClippers"
+        ],
+        "decision": "Make Paperclip"
+    }
+]
