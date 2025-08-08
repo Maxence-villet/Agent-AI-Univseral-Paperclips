@@ -1,46 +1,146 @@
-# Getting Started with Create React App
+# Universal Paperclips Analytics
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Une application React pour analyser les performances d'un agent AI dans le jeu Universal Paperclips. Ce projet a été créé en utilisant **Llama3 avec Ollama** et **Tesseract** pour créer un agent AI capable de jouer au jeu de manière autonome.
 
-## Available Scripts
+## 🤖 Agent AI
 
-In the project directory, you can run:
+Ce site permet d'avoir des statistiques sur comment mon agent AI a fonctionné dans deux scénarios différents :
+- **Avec des règles** : L'agent suit des stratégies spécifiques pour optimiser ses performances
+- **Sans règles** : L'agent joue librement sans contraintes
 
-### `yarn start`
+### 🛠️ Technologies AI utilisées
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Llama3** : Modèle de langage pour la prise de décision
+- **Ollama** : Interface pour exécuter Llama3 localement
+- **Tesseract** : OCR pour lire l'état du jeu à l'écran
+- **React + TypeScript** : Interface utilisateur pour visualiser les résultats
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📊 Métriques affichées
 
-### `yarn test`
+- Fonds disponibles ($)
+- Inventaire non vendu
+- Prix par trombone ($)
+- Demande publique (%)
+- Trombones par seconde
+- Trombones en stock (inch)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎮 Le jeu Universal Paperclips
 
-### `yarn build`
+Universal Paperclips est un jeu de gestion où l'objectif est de fabriquer des trombones et d'atteindre 100$ en le moins de tours possible.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Actions disponibles :
+- **Make Paperclip** : Fabrique manuellement 1 trombone (coûte 1 pouce de fil)
+- **lower** : Diminue le prix de vente des trombones (augmente la demande)
+- **raise** : Augmente le prix de vente des trombones (diminue la demande)
+- **Marketing** : Améliore le marketing pour augmenter la demande (coûte 100$)
+- **Wire** : N'achete pas de fil, cela ne sert à rien
+- **AutoClippers** : Achete des machines automatiques qui fabriquent des trombones automatiquement (coûte 6.10$)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤖 Prompts utilisés
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prompt avec règles (Partie Rules)
 
-### `yarn eject`
+```
+Je joue à un jeu de gestion où je dois fabriquer des trombones.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+OBJECTIF : Atteindre 100$ en le moins de tours possible.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+EXPLICATION DES BOUTONS :
+- "Make Paperclip" : Fabrique manuellement 1 trombone (coûte 1 pouce de fil)
+- "lower" : Diminue le prix de vente des trombones (augmente la demande)
+- "raise" : Augmente le prix de vente des trombones (diminue la demande)
+- "Marketing" : Améliore le marketing pour augmenter la demande (coûte 100$)
+- "Wire" : N'achete pas de fil, cela ne sert à rien.
+- "AutoClippers" : Achete des machines automatiques qui fabriquent des trombones à ta place toutes les secondes sans que celà utilise un tour de jeu (coûte 6.10$)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+RESTRICTION IMPORTANTE : Si Public Demand est à 1%, NE CLIQUE SURTOUT PAS sur "raise" car cela empêcherait toute vente.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Avant de payer AutoClippers, tu dois vérifier si tu as assez de fonds, sinon tu dois créer des trombones manuellement.
 
-## Learn More
+Voici l'état du jeu :
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+{state_text}
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Voici les actions possibles :
+{button_texts}
+
+Quelle action dois-je effectuer maintenant pour atteindre 100$ rapidement ? Réponds uniquement par le nom exact du bouton à cliquer.
+```
+
+### Prompt sans règles (Partie Libre)
+
+```
+Je joue à un jeu de gestion où je dois fabriquer des trombones.
+Voici l'état du jeu :
+
+{state_text}
+
+Voici les actions possibles :
+{button_texts}
+
+Quelle action dois-je effectuer maintenant ? Réponds uniquement par le nom exact du bouton à cliquer.
+```
+
+## 🚀 Fonctionnalités
+
+- **Graphiques interactifs** : Visualisation des métriques de jeu avec ApexCharts
+- **Sélecteur de données** : Basculement entre différents datasets (Partie Libre vs Partie Rules)
+- **Design moderne** : Interface épurée avec couleurs vives
+- **Responsive** : Compatible mobile et desktop
+
+## 🛠️ Technologies utilisées
+
+- **React 19**
+- **TypeScript**
+- **ApexCharts**
+- **Tailwind CSS**
+- **React Router**
+- **Llama3** (via Ollama)
+- **Tesseract OCR**
+
+## 🚀 Déploiement
+
+L'application est déployée sur GitHub Pages : [Lien vers l'application]
+
+## 📦 Installation
+
+```bash
+# Cloner le repository
+git clone https://github.com/Maxence-villet/ai_universal_paperclips.git
+
+# Installer les dépendances
+npm install
+
+# Lancer en mode développement
+npm start
+
+# Construire pour la production
+npm run build
+
+# Déployer sur GitHub Pages
+npm run deploy
+```
+
+## 📁 Structure du projet
+
+```
+src/
+├── app/
+│   └── chartPage/
+├── assets/
+│   ├── partie_libre.json
+│   └── partie_rules.json
+├── components/
+│   └── StackedAreaChart.tsx
+└── App.tsx
+```
+
+## 🎨 Design
+
+- **Thème** : Design épuré avec couleurs vives
+- **Graphiques** : Stacked Area Charts avec grilles horizontales subtiles
+- **Interface** : Minimaliste et intuitive
+
+## 📝 Licence
+
+MIT License
