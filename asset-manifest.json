@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Agent-AI-Universal-Paperclips/static/css/main.b68f5d07.css",
+    "main.js": "/Agent-AI-Universal-Paperclips/static/js/main.61bb6cec.js",
+    "index.html": "/Agent-AI-Universal-Paperclips/index.html",
+    "main.b68f5d07.css.map": "/Agent-AI-Universal-Paperclips/static/css/main.b68f5d07.css.map",
+    "main.61bb6cec.js.map": "/Agent-AI-Universal-Paperclips/static/js/main.61bb6cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b68f5d07.css",
+    "static/js/main.61bb6cec.js"
+  ]
+}
