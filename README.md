@@ -33,8 +33,8 @@ Universal Paperclips est un jeu de gestion où l'objectif est de fabriquer des t
 - **lower** : Diminue le prix de vente des trombones (augmente la demande)
 - **raise** : Augmente le prix de vente des trombones (diminue la demande)
 - **Marketing** : Améliore le marketing pour augmenter la demande (coûte 100$)
-- **Wire** : N'achete pas de fil, cela ne sert à rien
-- **AutoClippers** : Achete des machines automatiques qui fabriquent des trombones automatiquement (coûte 6.10$)
+- **Wire** : Restockage de ressources (prix aléatoire)
+- **AutoClippers** : Achete des machines automatiques qui fabriquent des trombones automatiquement (coût initial 6.10$)
 
 ## 🤖 Prompts utilisés
 
