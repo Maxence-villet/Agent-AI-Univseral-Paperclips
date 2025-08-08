@@ -10,8 +10,8 @@ export default function ChartPage() {
 
     return (
         <div className="flex flex-col items-center justify-center h-screen gap-10 bg-white">
-            <div>
-                <h3 className="text-2xl font-bold">Objectif : Atteindre 100$ pour gagner 🎉</h3>
+            <div className="flex items-center justify-center">
+                <h3 className="text-2xl font-bold text-center">Objectif : Atteindre 100$ pour gagner 🎉</h3>
             </div>
             <div>
                 <select onChange={(e) => setData(e.target.value === "data_libre" ? data_libre : data_rules)} className="bg-white text-gray-500 p-2">
@@ -19,7 +19,7 @@ export default function ChartPage() {
                     <option value="data_rules">Partie Rules (Avec règles)</option>
                 </select>
             </div>
-            <div className="items-center justify-center bg-white w-[60%] mx-auto">
+            <div className="items-center justify-center bg-white md:w-[60%] sm:w-[90%] mx-auto">
                 <StackedAreaChart data={data} />
             </div>
         </div>
